@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2022/02/12/test/</loc>
+    
+    <lastmod>2022-02-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2020/06/10/%E5%9F%BA%E4%BA%8Epython%E5%AE%9E%E7%8E%B0%E5%88%A9%E7%94%A8DEM%E6%95%B0%E6%8D%AE%E8%AE%A1%E7%AE%97%E5%9D%A1%E5%BA%A6%E3%80%81%E5%9D%A1%E5%90%91/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2020/07/11/%E5%9F%BA%E4%BA%8Epython%E4%B8%8EMySQL%E7%9A%84%E8%AE%B0%E8%B4%A6%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2021/12/12/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2022/02/12/%E6%B5%85%E8%B0%88%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8python%E8%BF%9B%E8%A1%8C%E7%88%AC%E8%99%AB%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2020/07/05/%E5%9F%BA%E4%BA%8EC#%E5%AE%9E%E7%8E%B0%E5%8D%AB%E6%98%9F%E5%9D%90%E6%A0%87%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%8D%95%E7%82%B9%E5%AE%9A%E4%BD%8D/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/2021/01/12/matplotlib%E4%BB%8E%E7%BB%98%E5%9B%BE%E5%88%B0%E6%8E%92%E7%89%88/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/about/index.html</loc>
+    
+    <lastmod>2022-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/link/index.html</loc>
+    
+    <lastmod>2022-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://si-xiaoming.github.io/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/python/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/MySQL/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/c/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/GNSS/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/matplotlib/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/tags/GIS/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://si-xiaoming.github.io/categories/python/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
