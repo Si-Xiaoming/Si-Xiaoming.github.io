@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://si-xiaoming.github.io/2021/12/12/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    
+    <lastmod>2022-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://si-xiaoming.github.io/2020/07/11/%E5%9F%BA%E4%BA%8Epython%E4%B8%8EMySQL%E7%9A%84%E8%AE%B0%E8%B4%A6%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     
     <lastmod>2022-02-13</lastmod>
@@ -50,15 +59,6 @@
     <loc>http://si-xiaoming.github.io/2022/02/12/test/</loc>
     
     <lastmod>2022-02-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://si-xiaoming.github.io/2021/12/12/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    
-    <lastmod>2022-02-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
