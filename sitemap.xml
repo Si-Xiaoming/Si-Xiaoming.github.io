@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://si-xiaoming.github.io/2021/12/12/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <loc>http://si-xiaoming.github.io/about/index.html</loc>
     
     <lastmod>2022-02-13</lastmod>
     
@@ -68,15 +68,6 @@
     <loc>http://si-xiaoming.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://si-xiaoming.github.io/about/index.html</loc>
-    
-    <lastmod>2022-01-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
